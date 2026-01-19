@@ -27,7 +27,7 @@
 
 **Репозиторий**: [pet_proj/ecommerce.md](https://github.com/savinmikhail/pet_proj/blob/main/ecommerce.md)
 
-- [ ] Создать проект на GitLab
+- [ ] Создать проект на GitLab/GitHub
 - [ ] Отправить ссылку на проект ментору
 - [ ] Созвонись со мной для обсуждения выбора фреймворка, и пунктов тз которые будешь выполнять
 
