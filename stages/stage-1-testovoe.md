@@ -125,21 +125,25 @@
 - [ ] Задача 4 по SQL
 - [ ] Задача 5 по SQL
 
-**Ссылка**: [Notion - SQL задачи](https://www.notion.so/20ccc604731280f99b1cdc0386a760c3?v=20ccc6047312800299c1000cfcf18f6b)
+**Ссылка**: [Notion - SQL задачи](https://www.notion.so/219cc6047312805380b6f1e17dbc8a3f)
+
+### PHP задачи
+
+Прорешать 5 задач среднего уровня отсюда: https://exercism.org/tracks/php/exercises
 
 ### Code Review задачи (на созвоне)
 - [ ] Задача 1 по Code Review
 - [ ] Задача 2 по Code Review
 - [ ] Задача 3 по Code Review
 
-**Ссылка**: [Notion - Code Review](https://www.notion.so/20ccc604731280f99b1cdc0386a760c3?v=20ccc6047312800299c1000cfcf18f6b)
+**Ссылка**: [Notion - Code Review](https://www.notion.so/219cc6047312805380b6f1e17dbc8a3f)
 
 ### System Design задачи (на созвоне)
 - [ ] Задача 1 по System Design
 - [ ] Задача 2 по System Design
 - [ ] Задача 3 по System Design
 
-**Ссылка**: [Notion - System Design](https://www.notion.so/20ccc604731280f99b1cdc0386a760c3?v=20ccc6047312800299c1000cfcf18f6b)
+**Ссылка**: [Notion - System Design](https://www.notion.so/219cc6047312805380b6f1e17dbc8a3f)
 
 ---
 
